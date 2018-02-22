@@ -3,3 +3,5 @@ function my(){
 }
 
 my();
+
+console.log("for branch 2");
